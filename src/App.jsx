@@ -4,6 +4,7 @@ import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import StudentList from './components/Students/StudentList';
 import EditStudent from './components/Students/EditStudent';
+import './index.css'; // Cambia el nombre según corresponda
 
 
 function App() {
